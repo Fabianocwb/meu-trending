@@ -1,0 +1,43 @@
+# Atualiza o dashboard automaticamente nos servidores do GitHub.
+name: Atualizar dashboard
+
+on:
+  schedule:
+    # Todo dia às 08:37 (Brasília) = 11:37 UTC. O GitHub usa horário UTC.
+    - cron: "37 11 * * *"
+  workflow_dispatch:   # permite rodar na hora pelo botão "Run workflow"
+
+permissions:
+  contents: write      # necessário para o robô salvar o README atualizado
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Gerar o dashboard
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python gerar_dashboard.py
+
+      - name: Salvar alterações (commit)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md historico/
+          if git diff --cached --quiet; then
+            echo "Nada mudou desde a última execução."
+          else
+            git commit -m "Dashboard atualizado em $(date -u +'%d/%m/%Y')"
+            git push
+          fi
