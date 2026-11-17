@@ -1,0 +1,538 @@
+{
+  "gerado_em": "2026-11-17T16:59:42.373823-03:00",
+  "trending": {
+    "🌍 Geral (todas as linguagens)": [
+      {
+        "nome": "GoogleChrome/modern-web-guidance-src",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "descricao": "Keep your coding agent up to date with the latest web best practices",
+        "linguagem": "TypeScript",
+        "estrelas_total": 8377,
+        "estrelas_periodo": 6542
+      },
+      {
+        "nome": "backnotprop/plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "descricao": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, a…",
+        "linguagem": "TypeScript",
+        "estrelas_total": 13002,
+        "estrelas_periodo": 2325
+      },
+      {
+        "nome": "meta/astryx",
+        "url": "https://github.com/meta/astryx",
+        "descricao": "An open source design system that's fully customizable and agent ready",
+        "linguagem": "TypeScript",
+        "estrelas_total": 30065,
+        "estrelas_periodo": 10939
+      },
+      {
+        "nome": "we-promise/sure",
+        "url": "https://github.com/we-promise/sure",
+        "descricao": "The personal finance app for everyone (by everyone)",
+        "linguagem": "Ruby",
+        "estrelas_total": 16236,
+        "estrelas_periodo": 4679
+      },
+      {
+        "nome": "ZhuLinsen/daily_stock_analysis",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "descricao": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source mark…",
+        "linguagem": "Python",
+        "estrelas_total": 73057,
+        "estrelas_periodo": 4355
+      },
+      {
+        "nome": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills",
+        "descricao": "Public repository for Agent Skills",
+        "linguagem": "Python",
+        "estrelas_total": 196631,
+        "estrelas_periodo": 5666
+      },
+      {
+        "nome": "elementalsouls/Claude-BugHunter",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "descricao": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-rep…",
+        "linguagem": "Python",
+        "estrelas_total": 8910,
+        "estrelas_periodo": 1747
+      },
+      {
+        "nome": "alibaba/open-code-review",
+        "url": "https://github.com/alibaba/open-code-review",
+        "descricao": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipeline…",
+        "linguagem": "Go",
+        "estrelas_total": 53616,
+        "estrelas_periodo": 3056
+      },
+      {
+        "nome": "vercel-labs/agent-browser",
+        "url": "https://github.com/vercel-labs/agent-browser",
+        "descricao": "Browser automation CLI for AI agents",
+        "linguagem": "Rust",
+        "estrelas_total": 52324,
+        "estrelas_periodo": 3760
+      },
+      {
+        "nome": "ChromeDevTools/chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "descricao": "Chrome DevTools for coding agents",
+        "linguagem": "TypeScript",
+        "estrelas_total": 58006,
+        "estrelas_periodo": 2593
+      }
+    ],
+    "🐍 Python": [
+      {
+        "nome": "ZhuLinsen/daily_stock_analysis",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "descricao": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source mark…",
+        "linguagem": "Python",
+        "estrelas_total": 73057,
+        "estrelas_periodo": 4355
+      },
+      {
+        "nome": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills",
+        "descricao": "Public repository for Agent Skills",
+        "linguagem": "Python",
+        "estrelas_total": 196631,
+        "estrelas_periodo": 5666
+      },
+      {
+        "nome": "elementalsouls/Claude-BugHunter",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "descricao": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-rep…",
+        "linguagem": "Python",
+        "estrelas_total": 8910,
+        "estrelas_periodo": 1747
+      },
+      {
+        "nome": "tradermonty/claude-trading-skills",
+        "url": "https://github.com/tradermonty/claude-trading-skills",
+        "descricao": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screener…",
+        "linguagem": "Python",
+        "estrelas_total": 6825,
+        "estrelas_periodo": 2407
+      },
+      {
+        "nome": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "descricao": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a gr…",
+        "linguagem": "Python",
+        "estrelas_total": 68879,
+        "estrelas_periodo": 901
+      },
+      {
+        "nome": "soxoj/maigret",
+        "url": "https://github.com/soxoj/maigret",
+        "descricao": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
+        "linguagem": "Python",
+        "estrelas_total": 40854,
+        "estrelas_periodo": 933
+      },
+      {
+        "nome": "homeassistant-ai/ha-mcp",
+        "url": "https://github.com/homeassistant-ai/ha-mcp",
+        "descricao": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "linguagem": "Python",
+        "estrelas_total": 7948,
+        "estrelas_periodo": 2221
+      },
+      {
+        "nome": "kajisho5/ffmpeg-skill",
+        "url": "https://github.com/kajisho5/ffmpeg-skill",
+        "descricao": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Co…",
+        "linguagem": "Python",
+        "estrelas_total": 7686,
+        "estrelas_periodo": 1528
+      },
+      {
+        "nome": "davila7/claude-code-templates",
+        "url": "https://github.com/davila7/claude-code-templates",
+        "descricao": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+        "linguagem": "Python",
+        "estrelas_total": 33921,
+        "estrelas_periodo": 640
+      },
+      {
+        "nome": "blader/humanizer",
+        "url": "https://github.com/blader/humanizer",
+        "descricao": "Agent skill that removes signs of AI-generated writing from text",
+        "linguagem": "Python",
+        "estrelas_total": 70298,
+        "estrelas_periodo": 2860
+      }
+    ],
+    "🗄️ T-SQL / SQL Server": [
+      {
+        "nome": "lerocha/chinook-database",
+        "url": "https://github.com/lerocha/chinook-database",
+        "descricao": "Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2",
+        "linguagem": "TSQL",
+        "estrelas_total": 2644,
+        "estrelas_periodo": 9
+      },
+      {
+        "nome": "DataWithBaraa/sql-ultimate-course",
+        "url": "https://github.com/DataWithBaraa/sql-ultimate-course",
+        "descricao": "The materials of the free 30-hour SQL course: the databases for SQL Server, MySQL and PostgreSQL, every query of the 41…",
+        "linguagem": "TSQL",
+        "estrelas_total": 1702,
+        "estrelas_periodo": 26
+      },
+      {
+        "nome": "DataWithBaraa/sql-data-warehouse-project",
+        "url": "https://github.com/DataWithBaraa/sql-data-warehouse-project",
+        "descricao": "Build a data warehouse in SQL Server from two source systems, a CRM and an ERP, through bronze, silver and gold. The fi…",
+        "linguagem": "TSQL",
+        "estrelas_total": 1081,
+        "estrelas_periodo": 13
+      }
+    ],
+    "🏛️ Delphi / Pascal": [
+      {
+        "nome": "stascorp/rdpwrap",
+        "url": "https://github.com/stascorp/rdpwrap",
+        "descricao": "RDP Wrapper Library",
+        "linguagem": "Pascal",
+        "estrelas_total": 16999,
+        "estrelas_periodo": 36
+      },
+      {
+        "nome": "doublecmd/doublecmd",
+        "url": "https://github.com/doublecmd/doublecmd",
+        "descricao": "Double Commander is a free cross platform open source file manager with two panels side by side.",
+        "linguagem": "Pascal",
+        "estrelas_total": 4809,
+        "estrelas_periodo": 66
+      },
+      {
+        "nome": "cheat-engine/cheat-engine",
+        "url": "https://github.com/cheat-engine/cheat-engine",
+        "descricao": "Cheat Engine. A development environment focused on modding",
+        "linguagem": "Pascal",
+        "estrelas_total": 19489,
+        "estrelas_periodo": 47
+      },
+      {
+        "nome": "benjamimgois/goverlay",
+        "url": "https://github.com/benjamimgois/goverlay",
+        "descricao": "Goverlay is an easy graphical interface to configure linux gaming applications",
+        "linguagem": "Pascal",
+        "estrelas_total": 1601,
+        "estrelas_periodo": 18
+      },
+      {
+        "nome": "peazip/PeaZip",
+        "url": "https://github.com/peazip/PeaZip",
+        "descricao": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, co…",
+        "linguagem": "Pascal",
+        "estrelas_total": 8161,
+        "estrelas_periodo": 52
+      },
+      {
+        "nome": "project-jedi/jcl",
+        "url": "https://github.com/project-jedi/jcl",
+        "descricao": "JEDI Code Library",
+        "linguagem": "Pascal",
+        "estrelas_total": 727,
+        "estrelas_periodo": 1
+      },
+      {
+        "nome": "transmission-remote-gui/transgui",
+        "url": "https://github.com/transmission-remote-gui/transgui",
+        "descricao": "🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web…",
+        "linguagem": "Pascal",
+        "estrelas_total": 3475,
+        "estrelas_periodo": 3
+      },
+      {
+        "nome": "FrankBijnen/ExifToolGui",
+        "url": "https://github.com/FrankBijnen/ExifToolGui",
+        "descricao": "A GUI for ExifTool",
+        "linguagem": "Pascal",
+        "estrelas_total": 1063,
+        "estrelas_periodo": 5
+      },
+      {
+        "nome": "jrsoftware/issrc",
+        "url": "https://github.com/jrsoftware/issrc",
+        "descricao": "Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since it…",
+        "linguagem": "Pascal",
+        "estrelas_total": 5770,
+        "estrelas_periodo": 18
+      },
+      {
+        "nome": "nofeletru/UsbAsp-flash",
+        "url": "https://github.com/nofeletru/UsbAsp-flash",
+        "descricao": "Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(…",
+        "linguagem": "Pascal",
+        "estrelas_total": 1418,
+        "estrelas_periodo": 6
+      }
+    ],
+    "⚡ PowerShell": [
+      {
+        "nome": "Raphire/Win11Debloat",
+        "url": "https://github.com/Raphire/Win11Debloat",
+        "descricao": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as per…",
+        "linguagem": "PowerShell",
+        "estrelas_total": 63115,
+        "estrelas_periodo": 852
+      },
+      {
+        "nome": "Euro-Office/DesktopEditors",
+        "url": "https://github.com/Euro-Office/DesktopEditors",
+        "descricao": "",
+        "linguagem": "PowerShell",
+        "estrelas_total": 986,
+        "estrelas_periodo": 121
+      },
+      {
+        "nome": "dotnet/core",
+        "url": "https://github.com/dotnet/core",
+        "descricao": ".NET news, announcements, release notes, and more!",
+        "linguagem": "PowerShell",
+        "estrelas_total": 22078,
+        "estrelas_periodo": 17
+      },
+      {
+        "nome": "ChrisTitusTech/winutil",
+        "url": "https://github.com/ChrisTitusTech/winutil",
+        "descricao": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+        "linguagem": "PowerShell",
+        "estrelas_total": 66246,
+        "estrelas_periodo": 446
+      },
+      {
+        "nome": "Atlas-OS/Atlas",
+        "url": "https://github.com/Atlas-OS/Atlas",
+        "descricao": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.",
+        "linguagem": "PowerShell",
+        "estrelas_total": 22136,
+        "estrelas_periodo": 86
+      },
+      {
+        "nome": "actions/runner-images",
+        "url": "https://github.com/actions/runner-images",
+        "descricao": "GitHub Actions runner images",
+        "linguagem": "PowerShell",
+        "estrelas_total": 13602,
+        "estrelas_periodo": 24
+      },
+      {
+        "nome": "comol/ai_rules_1c",
+        "url": "https://github.com/comol/ai_rules_1c",
+        "descricao": "Rules\\skills\\subagens for vibecoding in 1C(bsl)",
+        "linguagem": "PowerShell",
+        "estrelas_total": 547,
+        "estrelas_periodo": 11
+      },
+      {
+        "nome": "purecloudlabs/genesys-ava-skills",
+        "url": "https://github.com/purecloudlabs/genesys-ava-skills",
+        "descricao": "",
+        "linguagem": "PowerShell",
+        "estrelas_total": 35,
+        "estrelas_periodo": 5
+      },
+      {
+        "nome": "auto-yui-patch/fiddler-everywhere-patch-automated",
+        "url": "https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated",
+        "descricao": "Want Fiddler Everywhere Enterprise for Free? Then Patch it! Patch any version Automatically!",
+        "linguagem": "PowerShell",
+        "estrelas_total": 815,
+        "estrelas_periodo": 4
+      }
+    ]
+  },
+  "temas": {
+    "🔍 Engenharia reversa": [
+      {
+        "nome": "DandanLLab/SnowCatQQ",
+        "url": "https://github.com/DandanLLab/SnowCatQQ",
+        "descricao": "SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开",
+        "linguagem": "TypeScript",
+        "estrelas_total": 352
+      },
+      {
+        "nome": "abedegno/borland-reborn",
+        "url": "https://github.com/abedegno/borland-reborn",
+        "descricao": "Borland's DOS compilers, recovered as source that rebuilds the original binaries byte for byte. First up: Borland C++ 2…",
+        "linguagem": "C",
+        "estrelas_total": 226
+      },
+      {
+        "nome": "imraywang/openbean",
+        "url": "https://github.com/imraywang/openbean",
+        "descricao": "Open-source local driver for the soundcore Work (D3200) recorder: BLE/Wi-Fi, decryption, live audio. Not affiliated wit…",
+        "linguagem": "Swift",
+        "estrelas_total": 75
+      },
+      {
+        "nome": "zhidun2027/zhidun",
+        "url": "https://github.com/zhidun2027/zhidun",
+        "descricao": "Android APK hardening — DEX encryption, native shell engine, anti-tamper. Fully documented and auditable.",
+        "linguagem": "C",
+        "estrelas_total": 65
+      },
+      {
+        "nome": "brunnojob/revscope",
+        "url": "https://github.com/brunnojob/revscope",
+        "descricao": "A searchable, community-curated field guide to reverse engineering tools, workflows, and authorized analysis.",
+        "linguagem": "JavaScript",
+        "estrelas_total": 51
+      }
+    ],
+    "🤖 LLMs / IA": [
+      {
+        "nome": "sybil-solutions/inference-optimisation-skill",
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+        "descricao": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any…",
+        "linguagem": "Python",
+        "estrelas_total": 826
+      },
+      {
+        "nome": "YellowLaborerMarket/Gemini-Config-Checker-",
+        "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+        "descricao": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-D…",
+        "linguagem": "Makefile",
+        "estrelas_total": 475
+      },
+      {
+        "nome": "WireProvostPucker/Gemini-Config-Checker-",
+        "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+        "descricao": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-D…",
+        "linguagem": "Makefile",
+        "estrelas_total": 473
+      },
+      {
+        "nome": "WinnerSpecialist/Gemini-Config-Checker-",
+        "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+        "descricao": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-D…",
+        "linguagem": "Makefile",
+        "estrelas_total": 473
+      },
+      {
+        "nome": "WindGatorRise37/Gemini-Config-Checker-",
+        "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+        "descricao": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-D…",
+        "linguagem": "Makefile",
+        "estrelas_total": 473
+      }
+    ],
+    "🦙 IA local (Ollama)": [
+      {
+        "nome": "routerhubSI/deepseek-uncensored",
+        "url": "https://github.com/routerhubSI/deepseek-uncensored",
+        "descricao": "Every uncensored and abliterated DeepSeek build — V4.1 Flash 1017 Abliterated (the pinned, reproducible build that rank…",
+        "linguagem": "Python",
+        "estrelas_total": 72
+      },
+      {
+        "nome": "punit2911/Hirepanel",
+        "url": "https://github.com/punit2911/Hirepanel",
+        "descricao": "Multi-agent resume screener where every score needs a verified quote from the resume. Runs on local open-source models …",
+        "linguagem": "Python",
+        "estrelas_total": 60
+      },
+      {
+        "nome": "punit2911/meridian-multimodal-rag",
+        "url": "https://github.com/punit2911/meridian-multimodal-rag",
+        "descricao": "Evidence-grounded multimodal RAG for industrial maintenance documentation, with hybrid retrieval, citations, conflict r…",
+        "linguagem": "Python",
+        "estrelas_total": 44
+      },
+      {
+        "nome": "hajdu-patrik/clippy",
+        "url": "https://github.com/hajdu-patrik/clippy",
+        "descricao": "Local AI clipper: long videos, podcasts and streams in, vertical 9:16 clips with captions out. Chat app + CLI, Hungaria…",
+        "linguagem": "Python",
+        "estrelas_total": 41
+      },
+      {
+        "nome": "justxor/local-ai-agent-course-ru",
+        "url": "https://github.com/justxor/local-ai-agent-course-ru",
+        "descricao": "Локальный ИИ-агент с нуля на Python и Ollama. Бесплатный курс на русском: выбор LLM, Qwen и Gemma, tool calling, поиск …",
+        "linguagem": "Python",
+        "estrelas_total": 23
+      }
+    ],
+    "🗄️ SQL Server": [
+      {
+        "nome": "nikhishamudin-create/deadlock-counterpicker",
+        "url": "https://github.com/nikhishamudin-create/deadlock-counterpicker",
+        "descricao": "Deadlock Counterpicker: Pick the Right Hero, Win the Match",
+        "linguagem": "HTML",
+        "estrelas_total": 153
+      },
+      {
+        "nome": "platypus-labs/platypus-db",
+        "url": "https://github.com/platypus-labs/platypus-db",
+        "descricao": "Fast, lightweight SQL client for PostgreSQL, MySQL, SQL Server, SQLite, DuckDB and more, with an MCP server for AI agen…",
+        "linguagem": "Rust",
+        "estrelas_total": 8
+      },
+      {
+        "nome": "jjromero88/cleanstack",
+        "url": "https://github.com/jjromero88/cleanstack",
+        "descricao": "Agent Skills para Claude Code: fullstack Angular + .NET + SQL Server con Clean Architecture y frontend feature-based, d…",
+        "linguagem": "",
+        "estrelas_total": 2
+      },
+      {
+        "nome": "obnex/mds-to-sql-server-migration",
+        "url": "https://github.com/obnex/mds-to-sql-server-migration",
+        "descricao": "Free T-SQL scripts to migrate Microsoft Master Data Services (MDS) to SQL Server tables: tables and data, lookups and s…",
+        "linguagem": "TSQL",
+        "estrelas_total": 1
+      },
+      {
+        "nome": "KI-GEST/ZK-Pointage",
+        "url": "https://github.com/KI-GEST/ZK-Pointage",
+        "descricao": "Logiciel de pointage pour pointeuses ZKTeco (badge + visage SpeedFace) : presence, pointages temps reel, rapports Excel…",
+        "linguagem": "",
+        "estrelas_total": 1
+      }
+    ],
+    "⚙️ Automação": [
+      {
+        "nome": "CzzzzzzJ/mdldm-maitian",
+        "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+        "descricao": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+        "linguagem": "JavaScript",
+        "estrelas_total": 967
+      },
+      {
+        "nome": "ben-miller-23/dxo-photolab-10-desktop",
+        "url": "https://github.com/ben-miller-23/dxo-photolab-10-desktop",
+        "descricao": "DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measu…",
+        "linguagem": "C++",
+        "estrelas_total": 362
+      },
+      {
+        "nome": "ariamitchell54/cubase-studio-desktop",
+        "url": "https://github.com/ariamitchell54/cubase-studio-desktop",
+        "descricao": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
+        "linguagem": "",
+        "estrelas_total": 362
+      },
+      {
+        "nome": "azuresail195/wondershare-recoverit-desktop",
+        "url": "https://github.com/azuresail195/wondershare-recoverit-desktop",
+        "descricao": "Wondershare Recoverit 2026 desktop setup for recovering deleted files from disks, SD cards and USB drives, repairing co…",
+        "linguagem": "C++",
+        "estrelas_total": 360
+      },
+      {
+        "nome": "azure-teal-slope/windows-optimizer-desktop",
+        "url": "https://github.com/azure-teal-slope/windows-optimizer-desktop",
+        "descricao": "Windows Optimizer 2026 desktop setup with temporary file cleaner, startup manager with measured boot impact, and one-cl…",
+        "linguagem": "C++",
+        "estrelas_total": 360
+      }
+    ]
+  }
+}
